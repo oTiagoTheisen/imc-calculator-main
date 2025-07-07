@@ -1,5 +1,4 @@
-# 📳🍶 - Calculadora de IMC - React Native (Expo)
-
+# 📳🍶 - Calculadora de IMC (Índice Massa Moscular)  
 Este projeto tem como objetivo o aprimoramento de habilidades em desenvolvimento mobile utilizando **React Native** com **Expo**, além de proporcionar uma introdução prática à criação e exportação de arquivos APK. O ambiente de desenvolvimento utilizado inclui **Node.js** e o editor de código **Visual Studio Code (VSCode)**.
 
 ## 📱 Sobre o Aplicativo
