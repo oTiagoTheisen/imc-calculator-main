@@ -29,5 +29,6 @@ A aplicação consiste em uma **calculadora de IMC (Índice de Massa Corporal)**
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/kelwnt/imc-calculator
+   git clone https://github.com/oTiagoTheisen/imc-calculator-main
+   
 # imc-calculator-main
